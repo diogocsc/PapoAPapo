@@ -1,0 +1,7 @@
+locales:
+  en:
+    posts: "Posts"
+    subscribe: "subscribe"
+  pt:
+    posts: "Artigos"
+    subscribe: "subscrever"
