@@ -24,7 +24,7 @@ Procuramos os chamados "influencers" para nos ajudar a promover o produto.
 
 Vemos como público-alvo qualquer pessoa que tenha encontros ocasionais ou regulares com um grupo de pessoas.
 Em concreto, procuramos facilitadores, formadores, professores, moderadores, monitores, líderes de equipa.
-Nós jogámos em encontros de família por 3 vezes, e o jogo foi também jogado em encontros de amigos e em círculos temáticos.
+Funciona bem o jogo em família, entre amigos e também em círculos temáticos.
 
 #### O jogo pode ser jogado online
 
@@ -36,12 +36,12 @@ sendo necessário que uma pessoa - o anfitrião - tenha o jogo e vá mostrando a
 
 É expectável que a primeira edição tenha 100 exemplares, com o preço de venda ao público de 15 euros, em que este valor será utilizado para:
 
-	1 - pagar o investimento no 1º baralho
-	2 - viabilizar uma 2ª edição
-	3 - distribuir o remanescente (entre os 20% e os 30%) por projetos de impacto social alinhados com os nossos valores
+1. pagar o investimento no 1º baralho
+2. viabilizar uma 2ª edição
+3. distribuir o remanescente (entre os 20% e os 30%) por projetos de impacto social alinhados com os nossos valores
 
-Obrigado pela atenção.
-Aceitamos comentários por [email][papo-a-papo-email].
+Obrigado pela atenção.  
+Tem interesse em apoiar este projeto? Envie-nos um [email][papo-a-papo-email] a dizer como.
 
 [papo-a-papo-site]: https://www.papoapapo.com
 [papo-a-papo-fb]: https://facebook.com/papoapapo2020
