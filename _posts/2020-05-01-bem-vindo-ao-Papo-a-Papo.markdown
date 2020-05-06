@@ -34,7 +34,7 @@ sendo necessário que uma pessoa - o anfitrião - tenha o jogo e vá mostrando a
 
 #### Alguns aspetos Logísticos
 
-É expectável que a primeira edição tenha 100 exemplares, com o preço de venda ao público de 15 euros, em que este valor será utilizado para:
+É expectável que a primeira edição tenha 100 exemplares, com o preço de venda ao público de 18 euros, em que este valor será utilizado para:
 
 1. pagar o investimento no 1º baralho
 2. viabilizar uma 2ª edição
