@@ -35,6 +35,8 @@ minima:
   date_format: "%-d de %b, %Y"
   
 google_analytics: UA-165837247-1
+lang: pt
+
   
 # Build settings
 theme: minima
