@@ -8,9 +8,13 @@
   <link rel="stylesheet" href="css/style.css" >
   <link rel="stylesheet" href="font-awesome/css/all.css">
   <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
   <script src="js/jquery-3.4.1.min.js"></script>
   <script src="bootstrap/js/bootstrap.min.js" ></script>
   <script src="js/papoapapo.js"></script>
+
 </head>
 <body>
 	<nav class="navbar fixed-top navbar-expand-lg navbar-custom">
