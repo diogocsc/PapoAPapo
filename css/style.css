@@ -63,13 +63,19 @@ div {
 
 .contact {
 	position: absolute;
-	right: 10%;
-	top: 30%;
+	right: 5%;
+	top: 50%;
 	margin-right: 15px;	
 	color: #944443;
 	background-color: rgba(219,222,231,0.9);/*#dbdee7;*/
 	padding: 10px;
 	border-radius: 5%;
+	width: 500px;
+}
+
+.contact p {
+	margin-top: 20px;;
+	
 }
 
 .btn.btn-primary {
@@ -188,42 +194,9 @@ h2::after {
 	float: none !important;
 }
 
-/* From https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form*/
-
-form {
-	margin-top:50px;
-/*	  display: flex; */
-  align-items: left;
-  justify-content: left;
-	
-}
-
-form.form-example {
-	
-    display: table;
-}
-
-div.form-example {
-    display: table-row;
-}
-
-label, input, textarea {
-    display: table-cell;
-    margin-bottom: 10px;
-}
-
-label {
-    margin-right: 10px;
-	vertical-align: top;
-	width: 70px;
-	text-align: right;
-}
-input,textarea {
-	width: 65%;
-}
-
 
 p {text-align: center}
+
 
 /* This fixes overflow between Pré-Encomendas and carousel indicators*/
 /* thanks to https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries*/		
@@ -246,11 +219,12 @@ p {text-align: center}
 	.contact {
 		position: relative;
 		margin-top: 10%;
-		margin-left: 25%;
+		margin-left: 10%;
 		color: #944443;
 		background-color: rgba(219,222,231,0.9);/*#dbdee7;*/
 		padding: 10px;
 		border-radius: 5%;
+		width: 90%;
 	}
 	
 	.rules {
