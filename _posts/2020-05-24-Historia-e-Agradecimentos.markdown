@@ -55,7 +55,7 @@ Diogo
   
 P.S. Contacta-nos por [email][papo-a-papo-email] ou nas redes sociais [Facebook][papo-a-papo-fb]; [Instagram][papo-a-papo-insta]; [Twitter][papo-a-papo-twt]
 
-[oficinadeutopias]: https://oficinadeutopias.wordpress.com/
+[oficinadeutopias]: https://www.facebook.com/oficinadeutopias
 [femininoconsciente]: http://femininoconsciente.pt/
 [codigodalma]: https://www.codigodalma.pt 
 [despertutor]: http://www.despertutor.pt
