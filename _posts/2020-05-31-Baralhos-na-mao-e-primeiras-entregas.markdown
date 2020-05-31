@@ -13,13 +13,16 @@ Sentado no carro, abri a caixa para verificar se tudo estaria em ordem.
 
 ![caixa com baralhos](/images/caixa_baralhos.jpg)  
 
-Abri também um baralho, para ver o resultado final.
+Confesso que numa primeira reação, não gostei de ver os baralhos embrulhados em plástico.  
+Baralhos de papel reciclado embrulhados em plástico... 
+Por outro lado, talvez o plástico permita uma melhor conservação dos baralhos enquanto estão parados, a aguardar dono/a. E no final, posso sempre colocar o plástico para reciclar.  
+Abri um baralho, para ver o resultado final.
 
 ![cartas cantos redondos](/images/cantos_redondos.jpg)  
 
 E gostei de encontrar os cantos redondos.
 
-Além de ter escrito o artigo [História e Agradecimentos][historia-e-agradecimentos], enviei mensagem e comuniquei com algumas pessoas no sentido de lhes oferecer um baralho, a título de agradecimento e com a esperança de que possam vir a gostar do jogo e divulgá-lo pelas suas redes.
+Esta semana, além de ter escrito o artigo [História e Agradecimentos][historia-e-agradecimentos], enviei mensagem e comuniquei com algumas pessoas no sentido de lhes oferecer um baralho, a título de agradecimento e com a esperança de que possam vir a gostar do jogo e divulgá-lo pelas suas redes.
 
 Em relação aos objetivos estipulados na semana passada  
 - Ir buscar os baralhos à gráfica
