@@ -3,7 +3,7 @@ layout: post
 title:  "Propósito, Princípios, Caracteristicas e Forma de Jogar"
 date:   2020-06-07 07:35:51 +0100
 categories: papo-a-papo lancamento
-author: Diogo Cordeiro
+
 ---
 
 #### Propósito do jogo
