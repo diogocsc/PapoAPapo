@@ -87,7 +87,7 @@ e fica já o convite de seguires/gostares do Papo a Papo em cada uma delas.
 
 #### Objetivos para a próxima semana  
 
-- Cumprir com os objetivos estipulados na reunião de cuva de ideias 
+- Cumprir com os objetivos estipulados na reunião de chuva de ideias 
   - no meu caso, procurar iniciar uma versão digital do jogo,  
   - contactar músicos da minha rede para fazer uma música do Papo a Papo
   - fazer ponto de situação sobre o que fizémos esta semana em prol do Papo a Papo
