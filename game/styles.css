@@ -8,9 +8,7 @@
     width: 300px;
     cursor: pointer;
     text-align: center;
-    font-size: 28pt;
-    /*display:table-cell;*/
-    vertical-align: middle;
+    font-size: 18pt;
     margin: auto;
   }
   #question {
@@ -18,6 +16,7 @@
 
   }
   
+ 
   .main {
   
         /*  background-color: #00FFFF; */
@@ -145,5 +144,23 @@ a.button {
 .rowUnEven {
   background-color: lightskyblue;
 
+}
+
+.pw_prompt {
+    position:fixed;
+    left: 50%;
+    top:50%;
+    margin-left:-100px;
+    padding:15px;
+    width:200px;
+    border:1px solid black;
+	background-color:white;
+}
+.pw_prompt label {
+    display:block; 
+    margin-bottom:5px;
+}
+.pw_prompt input {
+    margin-bottom:10px;
 }
  

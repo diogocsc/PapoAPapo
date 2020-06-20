@@ -1,34 +1,88 @@
 
 /* Note : Cards variable is declared in cards.js file, which should be loaded before app.js"*/
 
-var playCards = cards;
+var playCardss;
 var usedDeck = [];
 var reader = new XMLHttpRequest() || new ActiveXObject('MSXML2.XMLHTTP');
 
+// from https://stackoverflow.com/a/28461750/1461972
+var promptCount = 0;
+window.pw_prompt = function(options) {
+    var lm = options.lm || "Palavra-Passe:",
+        bm = options.bm || "Submeter";
+    if(!options.callback) { 
+        alert("No callback function provided! Please provide one.") 
+    };
+                   
+    var prompt = document.createElement("div");
+    prompt.className = "pw_prompt";
+    
+    var submit = function() {
+        options.callback(input.value);
+        document.body.removeChild(prompt);
+    };
+
+    var label = document.createElement("label");
+    label.textContent = lm;
+    label.for = "pw_prompt_input" + (++promptCount);
+    prompt.appendChild(label);
+
+    var input = document.createElement("input");
+    input.id = "pw_prompt_input" + (promptCount);
+    input.type = "password";
+    input.addEventListener("keyup", function(e) {
+        if (e.keyCode == 13) submit();
+    }, false);
+    prompt.appendChild(input);
+
+    var button = document.createElement("button");
+    button.textContent = bm;
+    button.addEventListener("click", submit, false);
+    prompt.appendChild(button);
+
+    document.body.appendChild(prompt);
+};
+
+
+
 
 function getcards (){
-	
-     // console.log(cards);
-      mycards = cards.split("},"); 
+	pw_prompt({
+    lm:"Por favor introduza a sua palavra passe:", 
+    callback: function(password) {
+      if(password=="p4po4p4po2020"){
+			// console.log(cards);
+		  alert("Bem-vind@ ao Papo a Papo. Bom jogo!");
 
-      for (i=0; i<mycards.length; i++){
-        if(i==0){
-          mycards[i]=mycards[i].replace("[","");
-        }
-        if (i!=mycards.length -1){
-          mycards[i]+="}";  
-        }
-		else {
-			mycards[i]=mycards[i].replace("]","");
+		  mycards = cards.split("},"); 
+
+		  for (i=0; i<mycards.length; i++){
+			if(i==0){
+			  mycards[i]=mycards[i].replace("[","");
+			}
+			if (i!=mycards.length -1){
+			  mycards[i]+="}";  
+			}
+			else {
+				mycards[i]=mycards[i].replace("]","");
+			}
+		  //  console.log(cards[i]);
+			mycards[i]=JSON.parse(mycards[i]);
+		  }
+		  playCards = mycards;
+		  startMeUp();
+
 		}
-      //  console.log(cards[i]);
-        mycards[i]=JSON.parse(mycards[i]);
-      }
-	  playCards = mycards;
-      startMeUp();
+		else {
+			document.getElementById("main").innerHTML = ' <div class="card main"> Para jogar, precisa de primeiro efetuar pagamento (5 eur) ou ter um baralho físico. Para mais informações por favor envie email para papoapapo2020@gmail.com</div>'
+		}
+    }
+});
+     
 }
 
-getcards();
+  getcards();
+
 
 
 
@@ -56,7 +110,13 @@ function getRandomInt(min, max) {
 
 function loadcard() {
 
-var ixcard = getRandomInt(0,playCards.length-1);
+var ixcard;
+if(playCards.length>1){ 
+	ixcard = getRandomInt(0,playCards.length);
+}
+else {
+	ixcard = getRandomInt(0,playCards.length-1);
+}
 var card;
 let url="";
 if (ixcard != undefined && ixcard != -1) {
@@ -66,6 +126,7 @@ if (ixcard != undefined && ixcard != -1) {
       usedDeck.push(card);
       playCards.splice(ixcard,1);
 }
+
       if(card == undefined) {
         card = "Chegou ao fim do baralho. Clique em Recomeçar para continuar"
 		document.getElementById("main").innerHTML = ' <div class="card main"> '+ card + '</div>'

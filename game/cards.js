@@ -31,10 +31,10 @@ var cards = '{"card":"Expressa um agradecimento por algo que tenhas vivido com a
  +' {"card":"Se fosses um jornalista, quem gostarias de entrevistar? Porquê ?","url":"images/sefossesjornalista.png"},'
  +' {"card":"Se fosses um objeto deste lugar, qual serias? Porquê ?","url":"images/sefossesobjeto.png"},'
  +' {"card":"Se fosses uma planta, qual serias? Porquê ?","url":"images/sefossesplanta.png"},'
- +' {"card": "Encomende já o Papo a Papo enviando email para papoapapo2020@gmail.com","url":""},'
+/* +' {"card": "Encomende já o Papo a Papo enviando email para papoapapo2020@gmail.com","url":""},'*/
  +' {"card":"Conta uma situação marcante que viveste com uma pessoa deste grupo.","url":"images/situacaomarcante.png"},'
  +' {"card":"Tens a tua sobrevivência garantida. Em que te ocupas?","url":"images/sobrevivenciagarantida.png"},'
  +' {"card":"Quais são os teus três maiores valores ?","url":"images/tresmaioresvalores.png"},'
  +' {"card": "Alguma vez viste a tua vida andar pra trás?","url":"images/vidaandarparatras.png"},'
- +' {"card": "Se fosses um livro, que livro serias? Porquê?", "url":""},'
- +' {"card": "Encomende já o Papo a Papo enviando email para papoapapo2020@gmail.com","url":""}';
+ +' {"card": "Se fosses um livro, que livro serias? Porquê?", "url":""}';
+ /*+' {"card": "Encomende já o Papo a Papo enviando email para papoapapo2020@gmail.com","url":""}';*/
