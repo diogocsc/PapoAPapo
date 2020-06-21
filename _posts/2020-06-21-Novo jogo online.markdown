@@ -39,7 +39,7 @@ Encomendados: 1
 ### Movimentos nas Redes Sociais
 
 [Facebook][papo-a-papo-fb]  
-Neste momento temos 88 gostos.  
+Neste momento temos 90 gostos.  
 
 [Instagram][papo-a-papo-insta]
 Fiz primeira publicação no instagram, com o cartaz do evento de dia 24. Tivémos 2 gostos até agora.
