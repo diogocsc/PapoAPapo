@@ -1,6 +1,6 @@
 var cards = '{"card":"Expressa um agradecimento por algo que tenhas vivido com alguém deste grupo","url":"images/agradecimento.png" },'
  +' {"card":"Qual foi a coisa mais louca que fizeste na vida?","url":"images/coisamaislouca.png"},'
- +' {"card":"Como farias para adormecer um bébé?","url":"images/comoadormecesbebe.png"},'
+ +' {"card":"CCanta ao grupo uma música que usarias para adormecer um bébé. (sem os adormecer)","url":"images/musicaadormecerbebe.png"},'
  +' {"card":"Conta ao grupo por gestos como aprendeste a andar de bicicleta","url":"images/comoaprendestebicicleta.png"},'
  +' {"card":"Conta ao grupo como chegaste aqui hoje. Depois pede ao grupo para contar esta história contigo","url":"images/comochegasteaquihoje.png"},'
  +' {"card":"Como nasceste?","url":"images/comonasceste.png"},'
@@ -36,5 +36,6 @@ var cards = '{"card":"Expressa um agradecimento por algo que tenhas vivido com a
  +' {"card":"Tens a tua sobrevivência garantida. Em que te ocupas?","url":"images/sobrevivenciagarantida.png"},'
  +' {"card":"Quais são os teus três maiores valores ?","url":"images/tresmaioresvalores.png"},'
  +' {"card": "Alguma vez viste a tua vida andar pra trás?","url":"images/vidaandarparatras.png"},'
+ +' {"card": "Partilha um momento em que sentiste raiva. Como agiste?","url":"images/momentoraiva.png"},'
  +' {"card": "Se fosses um livro, que livro serias? Porquê?", "url":""}';
  /*+' {"card": "Encomende já o Papo a Papo enviando email para papoapapo2020@gmail.com","url":""}';*/
