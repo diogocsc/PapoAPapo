@@ -25,13 +25,13 @@ Em relação aos objetivos estipulados na semana passada
 
 ### Ponto de situação das Encomendas
 
-No total, já 13 pessoas encomendaram ou receberam a título de agradecimento ou prenda o Papo a Papo.
+No total, já 15 pessoas encomendaram ou receberam a título de agradecimento ou prenda o Papo a Papo.
 
 #### Baralhos por estado
 
-Entregues: 4  
+Entregues: 7  
 Pagos  
- - a caminho: 8  
+ - a caminho: 7  
 
 Encomendados (a entregar em mão): 1
 
