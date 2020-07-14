@@ -13,7 +13,7 @@ Em relação aos objetivos estipulados na semana passada:
 - Desenvolver a ideia de uma caixa auto-explicativa, para a "montra" Papo a Papo.
   - Continuámos o processo de definição de uma assinatura para o jogo.
 - Fortalecer presença nas redes sociais online.
-  - Na semana passada reduzimos a atividade nas redes sociais, considerando que esta seman estamos a participar num desafio que consiste em alavancar as redes sociais.
+  - Na semana passada reduzimos a atividade nas redes sociais, considerando que esta semana estamos a participar num desafio que consiste em alavancar as redes sociais.
 
 ### Ponto de situação das Encomendas
 
@@ -43,6 +43,7 @@ e fica já o convite de seguires/gostares do Papo a Papo em cada uma destas pág
 ### Objetivos para esta semana  
 
 - Continuar a Desenvolver a ideia de uma caixa auto-explicativa, para a "montra" Papo a Papo.
+- Definir a história para um video a custo zero.
 - Fortalecer presença nas redes sociais online.
 
 
