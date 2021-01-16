@@ -20,7 +20,8 @@
 	<div class="container">	
 	
 	<div class="description"> <p>Um jogo para aprofundar a ligação entre as pessoas.</p>
-					<p>> 6 anos. De 2 a 30 jogadores.</p>  
+					<p>Destinado a adultos, as crianças também podem jogar.</p>
+					<p>De 2 a 30 jogadores.</p>  
 					<ul> 
 							<li>Jogo online: 5 € </li>
 							<li>Baralho físico: 20 € (portes e jogo online incluídos)</li>			
@@ -58,8 +59,24 @@
 	</a>
 			<div class="contact">
 				<h2 id='pre'>Encomendas</h2>
-				<p> Para fazer já a sua encomenda envie um e-mail para <a href="mailto:papoapapo2020@gmail.com">papoapapo2020@gmail.com</a>, com o seu nome, morada de correspondência e e-mail de contacto.
-				Clique <a href="mailto:papoapapo2020@gmail.com">aqui</a> para enviar já o seu e-mail !</p>
+				<form  action="https://formspree.io/f/xzbkynaj"  method="POST">
+				   <label> Nome: <br />
+					<input type="text" name="name" size="40"> </label>
+					<br />
+				  <label> Email: <br />
+					<input type="text" name="_replyto" size="40">
+				  </label>
+				  <br />
+				  <label> Morada para envio do baralho: <br />
+					<textarea name="address" cols="50"></textarea>
+				  </label>
+				  <br />
+				  <label> Comentários adicionais:<br />
+					<textarea name="message" cols="50"></textarea>
+				  </label>
+				  <br />
+				  <button type="submit" class="btn btn-primary scroll">Encomendar</button>
+				</form>
 			</div>
 	</div>
 	<a id="contactos"
