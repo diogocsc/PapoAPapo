@@ -64,7 +64,7 @@
 					<input type="text" name="name" size="40"> </label>
 					<br />
 				  <label> Email: <br />
-					<input type="text" name="_replyto" size="40">
+					<input type="text" name="_replyto" size="40" required>
 				  </label>
 				  <br />
 				  <label> Morada para envio do baralho: <br />
@@ -74,7 +74,13 @@
 				  <label> Comentários adicionais:<br />
 					<textarea name="message" cols="50"></textarea>
 				  </label>
-				  <br />
+				  <label> 					
+					Aceito receber novidades do Papo a Papo por email
+				  </label><br>
+				  <input type="radio" id="sim" name="consentimento_novidades" value="sim" required>
+					<label for="sim">Sim</label><br>
+				  <input type="radio" id="nao" name="consentimento_novidades" value="nao" required>
+					<label for="nao">Não</label><br>
 				  <button type="submit" class="btn btn-primary scroll">Encomendar</button>
 				</form>
 			</div>
