@@ -73,6 +73,16 @@ div {
 	width: 500px;
 }
 
+.contact_end {
+	margin:auto;
+	position: relative;
+	color: #944443;
+	background-color: rgba(219,222,231,0.9);/*#dbdee7;*/
+	padding: 10px;
+	border-radius: 5%;
+	width: 500px;
+}
+
 .contact p {
 	margin-top: 20px;;
 	
