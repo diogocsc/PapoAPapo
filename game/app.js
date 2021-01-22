@@ -132,12 +132,9 @@ if (ixcard != undefined && ixcard != -1) {
 		document.getElementById("main").innerHTML = ' <div class="card main"><div class="padTop"> '+ card + '</div></div>'
       }
       else if(url !="") {
-		  document.getElementById("main").innerHTML = ' <div class="card main"> <img src="' + url + '" alt='+ card +' width="300" height="400"></div>' 
+		  document.getElementById("main").innerHTML = ' <div class="card main"> <img src="' + url + '" alt='+ card +' width="400" height="500"></div>' 
 	  } 
 	  else document.getElementById("main").innerHTML = ' <div class="card main"><div class="padTop"> '+ card + '</div></div>'
-
-     document.getElementById("main").innerHTML +=  '<div class="next" title="Próxima Carta" onclick="loadcard();"> Seguinte</div>'
-     +'<div class="restart" title="Recomeçar" onclick="restart();"> Recomeçar</div>'
       
 }
 
