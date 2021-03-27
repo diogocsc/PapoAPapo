@@ -60,6 +60,17 @@ div {
 	padding: 10px;
 	border-radius: 5%;
 }
+.testers_callout {
+	position: absolute;
+	right: 50%;
+	top: 50%;
+	width: 500px;	
+	margin-right: 15px;	
+	color: #944443;
+	background-color: rgba(219,222,231,0.9);/*#dbdee7;*/
+	padding: 10px;
+	border-radius: 5%;
+}
 
 .contact {
 	position: absolute;
@@ -282,6 +293,17 @@ p {text-align: center}
             margin-top: 40px;
         }
 	.description {
+		position: relative;
+		margin-left: 60%;
+		margin-bottom: 10%;
+		margin-top: 10%;
+		width:300px;
+		color: #944443;
+		background-color: rgba(219,222,231,0.9);/*#dbdee7;*/
+		padding: 10px;
+		border-radius: 5%;
+	}
+	.testers_callout {
 		position: relative;
 		margin-left: 60%;
 		margin-bottom: 10%;
