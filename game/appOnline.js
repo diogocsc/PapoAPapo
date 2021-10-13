@@ -6,9 +6,9 @@ var usedDeck = [];
 var reader = new XMLHttpRequest() || new ActiveXObject('MSXML2.XMLHTTP');
 var host = "https://cardx.vercel.app"
 //var host = "http://localhost:3000"
-var default_account ="cGFwb2FwYXBvMjAyMEBnbWFpbC5jb20=";
-var account = prompt("Qual a conta a cujas cartas quer aceder? Deixe em branco se quiser apenas espreitar");
-var fetchURL = host+'/api/public/'+ (account ? account : default_account);
+var default_deck ="Demo Papo a Papo";
+var deck = prompt("Qual o baralho a que quer aceder? Deixe em branco se quiser apenas espreitar");
+var fetchURL = host+'/api/public/decks/'+ (deck ? deck : default_deck);
 
 
 async function getcards (){
@@ -24,7 +24,6 @@ async function getcards (){
 
 		  playCards = mycards;
 		  startMeUp();
-		  console.log(playCards);
 }
   
   getcards();
