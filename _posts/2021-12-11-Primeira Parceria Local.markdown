@@ -20,17 +20,6 @@ Para mais informações sobre o restaurante, visita a [página de Facebook do Bo
 1. Já está disponível a versão beta do Papo a Papo, para Android. Basta clicares [aqui][versao-beta] para instalar e experimentar.
 2. Se tiveres dúvidas, envia-nos um email para [papoapapo2020@gmail.com][papo-a-papo-email]
 
-
-### Um questionário sobre dinâmicas de facilitação
-
-Para chegarmos a mais pessoas a quem achamos que o Papo a Papo pode interessar, decidimos criar um eBook sobre dinàmicas de facilitaçáo.
-Para construir esse eBook, começámos por lançar um questionário direcionado a dinamizadores de grupo e também passível de resposta por qualquer pessoa que já tenha participado numa formação ou evento de grupo.
-
-Acede [aqui][questionario-dinamizadores] ao questionário e passa-o aos teus contactos.
-
-Obrigado desde já pela tua colaboração !
-
-
   
 ### Ponto de situação das Encomendas
 
@@ -39,6 +28,7 @@ No total, já 35 pessoas encomendaram ou receberam a título de agradecimento ou
 #### Baralhos por estado
 
 Entregues: 42 
+
 Em loja: 6
 
 
